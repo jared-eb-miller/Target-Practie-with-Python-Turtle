@@ -176,5 +176,3 @@ for score in scores:
 print('Your highscore: ' + str(highest_score)[0:5] + ' out of 1000.')
 if highest_score > 750:
   print('Great Job!')
-
-wn.mainloop()
